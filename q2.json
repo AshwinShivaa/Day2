@@ -1,0 +1,11 @@
+
+{
+    "name":"ashwin shivaa",
+    "age":23,
+    "dob":"24.05.2000",
+    "gender":"male",
+    "nationality":"India",
+    "hobbies":["playing Badminton", "Reading Books"],
+    "role":"PA",
+    "isStudent":false
+}
